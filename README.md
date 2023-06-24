@@ -1,4 +1,4 @@
-# odin-recipes
+# My Recipes - Salmon, Risotto, Enchiladas
 
 Introduction: This project is my first attempt at creating a recipes website - it probably won't look pretty but it's a stepping stone in my progression. 
 
